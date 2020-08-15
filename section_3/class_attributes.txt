@@ -1,0 +1,4 @@
+# Class vs Instance Attributes
+- class attribute: attribute set within the class
+- Instance attribute: attribute set in the Instance
+- Attribute lookup order: Instance then class
