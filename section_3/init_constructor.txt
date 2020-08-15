@@ -1,0 +1,7 @@
+# The init constructor
+- __init__ is a keyword variable, it must be named init
+- The self argument is the first appearance of the instance
+- Allows attributes to be set before instance of class is constructed
+- Double underscore signifies "private" method not intended to be called by user 
+- "Magic" because it is automatically called when instance is constructed
+- "Integrity Gate" is common in constructor to validate the object before returning
