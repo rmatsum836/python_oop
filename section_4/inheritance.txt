@@ -1,0 +1,8 @@
+# Inheriting Attributes
+
+- Inheritance: second pillar of OOP
+- Classes can inherit from other classes, including attributes and
+  methods
+- `object`: Built-in object in python
+- Inheritance adds another layer in lookup hierarchy: instance, class,
+  any class from which class inherits

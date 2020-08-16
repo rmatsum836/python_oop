@@ -1,0 +1,12 @@
+# Polymorphism
+
+- Third pillar of OOP
+- Two classes with same interface (method name)
+- The methods are often different but coneptually similar
+- Example: `Dog` and `Cat` are different classes but they both have
+  `show_affection` methods
+- Allows for expressiviveness in design: we can say that this group of
+  related classes implement the same action
+- Ducktyping: Reading an object's attributes to decide whether it is
+  of a proper type, rather than checking the type itself
+- `len` built-in function is actually a method of the object

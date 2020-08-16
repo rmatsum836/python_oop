@@ -1,0 +1,9 @@
+# Inheriting the Constructor
+
+- __init__ can be inherited like any other method
+- If a class doesn't have an __init__ constructor, python will check
+  its parent class to see if it can find one
+- Call parent class constructor with `super` in child class
+  constructor
+- super is a built-in function
+- `super` keeps thing modular and easier to maintain
