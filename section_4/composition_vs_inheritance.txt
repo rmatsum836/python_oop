@@ -1,0 +1,8 @@
+# Composition vs Inheritance
+- Inheritance can be brittle, meaning a change may require changes elsewhere
+- Creates dependencies
+- Decoupled code: Classes, functions, et.c that work independently and don't
+  depend on one another
+- As long as the interface is maintained, interactions between classes will
+  work
+- Not checking or requiring particular types is polymorphic and pythonic
