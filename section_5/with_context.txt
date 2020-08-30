@@ -1,0 +1,7 @@
+# With statement
+
+- Good practice to close files when done with them
+- `with` statement will close the file under the hood
+- `with` is useful for any class instance that needs cleanup after
+  being used (Takes care of cleanup for us)
+- `__exit__` requires three arguments: type, value, traceback

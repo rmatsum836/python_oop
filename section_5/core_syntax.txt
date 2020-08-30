@@ -1,0 +1,5 @@
+# Using core syntax from Python
+- When calling operator such as '+', a class method is being called
+  under the hood (`__add__`)
+- We can take advantage of these methods in our own classes
+- `__repr__`: string representation of the object
