@@ -1,0 +1,8 @@
+# Abstract classes
+
+- abstract class is a "model" for other classes to be defined.
+- abc module: Package to create base classes
+- Not designed to be instantiated but inherit from
+- metaclass: class that can create other classes
+- Class that calls the abstract class must have the same abstract methods
+  defined in the abstract class

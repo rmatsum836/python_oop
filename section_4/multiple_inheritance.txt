@@ -1,0 +1,8 @@
+# Multiple Inheritance
+
+- When a child class inherits from multiple parent classes
+- Depth-first or breadth-first? By default, python uses a depth-first
+  lookup for an attribute
+- For "diamond shape" inheritance, inheritance is ambiguous.  Removes
+  earlier occurance of a class that appears twice in an order
+- Can find out lookup order by calling `mro()` method

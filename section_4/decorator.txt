@@ -1,0 +1,11 @@
+# Decorators, Static and Class Methods
+
+- Bound method: Method that is bound to instance of class, (self) is
+  an argument
+- Class method: Method intended work with class (replace `self` with
+  `cls`) and add `@classmethod`
+- Decorator: Special function to modify functions
+- Static method: `@staticmethod` decorator, utility class that doesn't
+  work with either class or instance
+- The `@classmethod` and `@staticmethod` modify the default binding
+  that instance methods provide
