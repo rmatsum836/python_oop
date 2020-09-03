@@ -1,0 +1,11 @@
+# Attribute Encapsulation
+- Instance attributes can be changed anywhere, breaking encapsulation
+- Getter and setter methods encourage encapsulation but are clunkier
+- Trusting the user is pythonic
+- @property is a decorator that designates an instance attribute as
+  encapsulate-able through methods
+- @property should not encapsulate expensive operations, because
+  attribute setting looks cheap
+- @property controls attributes that are expected but can't control
+  attributes that are unexpected
+- __slots__ can defined allowable attributes

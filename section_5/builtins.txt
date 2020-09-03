@@ -1,0 +1,7 @@
+# Inheriting from built-ins
+
+- Python lets our classes inherit from built-in classes
+- An inherting child class of a built-in class shares all the same
+  attributes and methods
+- This allows us to take advantage of core built-in functionality but
+  customize selected operations

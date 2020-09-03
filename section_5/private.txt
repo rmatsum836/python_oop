@@ -1,0 +1,12 @@
+# Private Variable Names
+- There is no real privacy in python
+- Some PEP8 conventions:
+    - Module names: all_lower_case
+    - class names and exceptions: CamelCase
+    - Globals and locals: all_lower_case
+    - Functions and methods: all_lower_case
+    - contants: ALL_CAPS
+- "Private" attributes or variables should begin with single leading
+  underscore
+- "Magic" attributes have double underscores (Use them, don't create
+  them)

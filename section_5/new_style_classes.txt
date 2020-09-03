@@ -1,0 +1,7 @@
+# New Style Classes
+- All new style classes inherit from `object`
+- In new style classes, `class` and `type` are directly related
+- Allow the subclassing of built-ins
+- Support "descriptors"
+- Only style of class in Python 3
+- Use the "C3" method-resolution order (MRO)
