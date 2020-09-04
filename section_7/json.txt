@@ -1,0 +1,8 @@
+# JSON
+- JSON: JavaScript Object Notation
+- Extremely popular standard for storing and communicating structured data
+- Human readable
+- Often used for configuration files
+- Resembles Python, but is not always python
+- JSON must have double quotes, no single quotes
+- No commas after last item

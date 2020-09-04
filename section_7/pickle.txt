@@ -1,0 +1,12 @@
+# Object serialization and Pickle
+
+- serialization: perisistant storage, to disk
+- relational storage writes data to tables (relational database txt files)
+- object-based storage stores objects as they are used in code
+- object-relational mappings can mediate between the two
+- pickle: package in python to store an object to disk
+- `pickle.dumps` and `pickle.loads` stores and loads objects as strings
+- Instances of a class can also be pickled
+- pickling doesn't store code, but refers to them
+- not human readable
+- cPickle is a fastr, C-compiled implementation

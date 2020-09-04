@@ -1,0 +1,8 @@
+# YAML
+
+- YAML: yaml ain't markup language
+- serializes python objects, like pickle or JSON
+- Uses whitespace to separate elements, extremely readable
+- List and tuple are stored the same way, tuple needs to be denoted
+- YAML will handle and process an object automatically
+- instances can be stored, but code needs to be referred to like pickling
