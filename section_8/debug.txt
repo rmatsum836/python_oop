@@ -1,0 +1,6 @@
+# Efficieny and Testing - PDB
+- "Python Debugger"
+- Built-in Python
+- Allows step-by-step execution of the script
+- Allows flow control (can execute at any line or function)
+- Allows inspection of variables
