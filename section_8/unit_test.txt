@@ -1,0 +1,9 @@
+# Unit Testing: the pytest module
+
+- Not a default python package
+- Python tests are python programs that test other python programs
+- pytest looks for scripts functions, merthods called "test_"
+- After calling function or method, assert something is true
+- with pytest.raises() to assert that an exception is raised
+- setup_class() method to do test prep
+- teardown_class() mthod to clean up tests

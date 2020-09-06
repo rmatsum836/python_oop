@@ -1,0 +1,8 @@
+# Python Logging module
+
+- Writes logging "events" to file or the terminal screen
+- Messages are written and logged at levels of "severity"
+- logging.INFO (built-in severity level)
+- Messages that are below severity level won't be printed
+- Log all messages and change the severity level to decide which get
+  printed

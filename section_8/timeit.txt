@@ -1,0 +1,12 @@
+# Benchmarking with timeit
+
+- "Benchmarking" means comparing two code snippets to see which
+  executes faster
+- Time and memory are often not a concern to us, but it is to some
+  Python programmers
+- Time tests should be run multiple times
+- Tests should consider the context in which they will run
+- Benchmarking is something of an art
+- timeit.timeit: setup: import packages and variables to run
+- Suggested not to take an average, take the lowest time of the
+  multiple runs
